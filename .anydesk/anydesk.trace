@@ -1,0 +1,572 @@
+ * * * * * * * * * * * * * * * * * *
+   info 2024-12-17 04:12:12.540      front   main  29536 2146451                                  main - * AnyDesk MAC Startup *
+   info 2024-12-17 04:12:12.540      front   main  29536 2146451                                  main - * Version 8.1.4 (release/mac_8.1.x 44493824f0795e3c07fdf2e9f223ddf3f8369d3c)
+   info 2024-12-17 04:12:12.540      front   main  29536 2146451                                  main - * Build 20241030151950
+   info 2024-12-17 04:12:12.540      front   main  29536 2146451                                  main - * Prefix ad
+   info 2024-12-17 04:12:12.542      front   main  29536 2146451                                  main - * OS Version 14.5 (Build 23F79)
+   info 2024-12-17 04:12:12.542      front   main  29536 2146451                                  main - * Arch arm64
+   info 2024-12-17 04:12:12.542      front   main  29536 2146451                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-12-17 04:12:12.542      front   main  29536 2146451                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-12-17 04:12:12.542      front   main  29536 2146451                                  main - 
+   info 2024-12-17 04:12:12.542      front   main  29536 2146451                                  main - pid: 29536 ppid: 1 uid: 501
+   info 2024-12-17 04:12:12.542      front   main  29536 2146451                                  main - process maxfiles 256 : -1
+   info 2024-12-17 04:12:12.542      front   main  29536 2146451                                  main - raising RLIMIT_NOFILE to 10240
+   info 2024-12-17 04:12:12.542      front   main  29536 2146451                         impl_selector - using neon
+  error 2024-12-17 04:12:12.633      front   main  29536 2146451         mac_app.helper_tool_interface - Global files not found.
+   info 2024-12-17 04:12:12.633      front   main  29536 2146451                   fiber.ipc_namespace - Global: no
+   info 2024-12-17 04:12:12.633      front   main  29536 2146451                           AppDelegate - Starting a local service.
+warning 2024-12-17 04:12:12.634      front   main  29536 2146451                   fiber.ipc_namespace - Local namespace without service.
+ * * * * * * * * * * * * * * * * * *
+   info 2024-12-17 04:12:12.642       lsvc   main  29542 2146638                                  main - * AnyDesk MAC Startup *
+   info 2024-12-17 04:12:12.642       lsvc   main  29542 2146638                                  main - * Version 8.1.4 (release/mac_8.1.x 44493824f0795e3c07fdf2e9f223ddf3f8369d3c)
+   info 2024-12-17 04:12:12.642       lsvc   main  29542 2146638                                  main - * Build 20241030151950
+   info 2024-12-17 04:12:12.642       lsvc   main  29542 2146638                                  main - * Prefix ad
+   info 2024-12-17 04:12:12.643       lsvc   main  29542 2146638                                  main - * OS Version 14.5 (Build 23F79)
+   info 2024-12-17 04:12:12.643       lsvc   main  29542 2146638                                  main - * Arch arm64
+   info 2024-12-17 04:12:12.643       lsvc   main  29542 2146638                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-12-17 04:12:12.643       lsvc   main  29542 2146638                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-12-17 04:12:12.643       lsvc   main  29542 2146638                                  main - 
+   info 2024-12-17 04:12:12.643       lsvc   main  29542 2146638                                  main - pid: 29542 ppid: 29536 uid: 501
+   info 2024-12-17 04:12:12.643       lsvc   main  29542 2146638                                  main - process maxfiles 10240 : -1
+   info 2024-12-17 04:12:12.643       lsvc   main  29542 2146638                         impl_selector - using neon
+   info 2024-12-17 04:12:12.644       lsvc   main  29542 2146638                       app.common_path - initialized user = /Users/karthikkulkarni/.anydesk, system = /Users/karthikkulkarni/.anydesk
+warning 2024-12-17 04:12:12.644       lsvc   main  29542 2146638                       app.common_path - Can't symlink /Users/karthikkulkarni/Movies/anydesk (0)
+   info 2024-12-17 04:12:12.644       lsvc   main  29542 2146638                      main.run_service - Starting local service.
+   info 2024-12-17 04:12:12.644       lsvc   main  29542 2146638          base.data.config_application - Adding GPO defaults layer.
+   info 2024-12-17 04:12:12.644       lsvc   main  29542 2146638                               app.mdm - Loaded 0/667 MDM defaults.
+   info 2024-12-17 04:12:12.644       lsvc   main  29542 2146638          base.data.config_application - Adding GPO overrides layer.
+   info 2024-12-17 04:12:12.645       lsvc   main  29542 2146638                               app.mdm - Loaded 0/667 MDM overrides.
+   info 2024-12-17 04:12:12.645       lsvc   main  29542 2146638            permission_profile_manager - Migrating V0 -> V1
+   info 2024-12-17 04:12:12.646       lsvc   main  29542 2146638                       fiber.scheduler - Spawning root fiber 1.
+   info 2024-12-17 04:12:12.646       lsvc   main  29542 2146638                       fiber.scheduler - Scheduler started.
+   info 2024-12-17 04:12:12.646       lsvc   main  29542 2146638    1                      app.service - Opening the IPC namespace.
+   info 2024-12-17 04:12:12.646       lsvc   main  29542 2146638    1              fiber.ipc_namespace - Global: no
+   info 2024-12-17 04:12:12.646       lsvc   main  29542 2146638    1                      app.service - Logging into the IPC namespace.
+   info 2024-12-17 04:12:12.654       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning child fiber 2 (parent: 1).
+   info 2024-12-17 04:12:12.654       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning child fiber 3 'notifications' (parent: 1).
+   info 2024-12-17 04:12:12.654       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning child fiber 4 (parent: 1).
+   info 2024-12-17 04:12:12.654       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning child fiber 5 'license_adapter' (parent: 1).
+   info 2024-12-17 04:12:12.654       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning child fiber 6 'device_id' (parent: 1).
+   info 2024-12-17 04:12:12.654       lsvc   main  29542 2146638    1                      app.service - Starting to supervise the IPC namespace.
+   info 2024-12-17 04:12:12.654       lsvc   main  29542 2146638    1                      app.service - Starting the connector.
+   info 2024-12-17 04:12:12.655       lsvc   main  29542 2146638    1            anynet.connection_mgr - Generating a new certificate and key.
+   info 2024-12-17 04:12:12.727       lsvc   main  29542 2146638    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2024-12-17 04:12:12.727       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning root fiber 7 'connection_mgr'.
+   info 2024-12-17 04:12:12.727       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning root fiber 8 'main_relay_conn'.
+   info 2024-12-17 04:12:12.727       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning root fiber 9 'tcp_acceptor'.
+   info 2024-12-17 04:12:12.727       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning root fiber 10 'tcp_acceptor'.
+   info 2024-12-17 04:12:12.727       lsvc   main  29542 2146638    1                      app.service - Setting up the listen sockets.
+   info 2024-12-17 04:12:12.727       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning root fiber 11.
+   info 2024-12-17 04:12:12.727       lsvc   main  29542 2146638    1                      app.service - Service startup completed.
+   info 2024-12-17 04:12:12.727       lsvc   main  29542 2146638    1      anynet.connectivity_monitor - connectivity_monitor osx create
+   info 2024-12-17 04:12:12.729       lsvc   main  29542 2146638    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2024-12-17 04:12:12.729       lsvc   main  29542 2146638    1            app.discovery_manager - Starting Discovery.
+   info 2024-12-17 04:12:12.729       lsvc   main  29542 2146638    1                   ad.wol_service - Starting WOL service.
+   info 2024-12-17 04:12:12.729       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning child fiber 12 'wol_service' (parent: 1).
+   info 2024-12-17 04:12:12.729       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning child fiber 13 'invitation_service' (parent: 1).
+   info 2024-12-17 04:12:12.729       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning child fiber 14 'ancl' (parent: 1).
+   info 2024-12-17 04:12:12.729       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning child fiber 15 'quiver_anynet_service' (parent: 1).
+   info 2024-12-17 04:12:12.729       lsvc   main  29542 2146638    1                      app.service - Waiting for messages.
+   info 2024-12-17 04:12:12.730       lsvc   main  29542 2146638    6                        device_id - device id service started.
+   info 2024-12-17 04:12:12.730       lsvc   main  29542 2146638    7            anynet.connection_mgr - Starting connection manager fiber.
+   info 2024-12-17 04:12:12.730       lsvc   main  29542 2146638    8           anynet.main_relay_conn - Starting main relay connection.
+   info 2024-12-17 04:12:12.730       lsvc   main  29542 2146638    8      anynet.connectivity_monitor - connectivity_monitor osx create
+   info 2024-12-17 04:12:12.730       lsvc   main  29542 2146638    8                  fiber.scheduler - Spawning child fiber 16 'relay_connector' (parent: 8 'main_relay_conn').
+   info 2024-12-17 04:12:12.730       lsvc   main  29542 2146638    9              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv4.
+   info 2024-12-17 04:12:12.730       lsvc   main  29542 2146638   10              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv6.
+   info 2024-12-17 04:12:12.730       lsvc   main  29542 2146638   11                anynet.any_socket - Listen fiber started.
+   info 2024-12-17 04:12:12.730       lsvc   main  29542 2146638   12                      anynet.conn - Request before connect. Queueing.
+   info 2024-12-17 04:12:12.731       lsvc   main  29542 2146638   16           anynet.relay_connector - Relay connector started.
+   info 2024-12-17 04:12:12.731       lsvc   main  29542 2146638   16           anynet.relay_connector - Start proxy search.
+   info 2024-12-17 04:12:12.731       lsvc   main  29542 2146638   16           anynet.relay_connector - Connecting to relay boot.net.anydesk.com (1/1)
+   info 2024-12-17 04:12:12.731       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-12-17 04:12:12.731       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-12-17 04:12:12.731       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-12-17 04:12:12.735      front   main  29536 2146451                       app.common_path - initialized user = /Users/karthikkulkarni/.anydesk, system = /Users/karthikkulkarni/.anydesk
+   info 2024-12-17 04:12:12.735      front   main  29536 2146451                           AppDelegate - Starting frontend (6).
+   info 2024-12-17 04:12:12.735      front   main  29536 2146451          base.data.config_application - Adding GPO defaults layer.
+   info 2024-12-17 04:12:12.736      front   main  29536 2146451                               app.mdm - Loaded 0/667 MDM defaults.
+   info 2024-12-17 04:12:12.736      front   main  29536 2146451          base.data.config_application - Adding GPO overrides layer.
+   info 2024-12-17 04:12:12.736      front   main  29536 2146451                               app.mdm - Loaded 0/667 MDM overrides.
+   info 2024-12-17 04:12:12.736      front   main  29536 2146451                           gui.gui_app - DPI scaling: 2.00 / 2.00
+   info 2024-12-17 04:12:12.736      front   main  29536 2146451                           gui.gui_app - Using high-resolution bitmaps.
+warning 2024-12-17 04:12:12.736      front   main  29536 2146451                          account_info - Could not read account info from config.
+warning 2024-12-17 04:12:12.736      front   main  29536 2146451                          account_info - Could not read account info from config.
+   info 2024-12-17 04:12:12.736      front   main  29536 2146451                       base.signal.hub - 4 threads.
+   info 2024-12-17 04:12:12.745      front   timr  29536 2146644          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-12-17 04:12:12.745      front   ctrl  29536 2146646                      mac_app.frontend - Frontend startup.
+   info 2024-12-17 04:12:12.746      front   ctrl  29536 2146646                      mac_app.frontend - Logging the frontend in.
+   info 2024-12-17 04:12:12.746       lsvc   main  29542 2146638    1                      app.service - Process start: 29536 (frontend).
+   info 2024-12-17 04:12:12.746       lsvc   main  29542 2146638    1           anynet.relay_connector - Short timeouts enabled.
+   info 2024-12-17 04:12:12.747       lsvc   main  29542 2146638    1                      app.service - New IPC connection.
+   info 2024-12-17 04:12:12.747       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning child fiber 17 'ipc_connection' (parent: 1).
+   info 2024-12-17 04:12:12.747       lsvc   main  29542 2146638   17                      app.service - Creating an IPC accept socket.
+warning 2024-12-17 04:12:12.747      front   ctrl  29536 2146646                          account_info - Could not read account info from config.
+   info 2024-12-17 04:12:12.747       lsvc   main  29542 2146638   17                      app.service - Connected to 29536 (frontend).
+   info 2024-12-17 04:12:12.747       lsvc   main  29542 2146638   17                      app.service - Process login detected.
+   info 2024-12-17 04:12:12.747       lsvc   main  29542 2146638   17                  fiber.scheduler - Spawning child fiber 18 'account_adapter' (parent: 17 'ipc_connection').
+warning 2024-12-17 04:12:12.747      front   wrk1  29536 2146648                                   sif - Dropping out of date license response.
+   info 2024-12-17 04:12:12.747      front   wrk2  29536 2146649                               app.mdm - Loaded 0/667 MDM overrides.
+   info 2024-12-17 04:12:12.747       lsvc   main  29542 2146638   18                  account_adapter - Preparing quiver based account service for os-session 501
+   info 2024-12-17 04:12:12.748      front   wrk2  29536 2146649                               app.mdm - Loaded 0/667 MDM defaults.
+warning 2024-12-17 04:12:12.750      front   ctrl  29536 2146646                          account_info - Could not read account info from config.
+   info 2024-12-17 04:12:12.750       lsvc   main  29542 2146638   18                      anynet.conn - Request before connect. Queueing.
+   info 2024-12-17 04:12:12.750      front   ctrl  29536 2146646                     base.monitor_info - 1 active monitor(s) found.
+   info 2024-12-17 04:12:12.757       lsvc   main  29542 2146638   16           anynet.relay_connector - Using IPv4: 57.129.37.75
+   info 2024-12-17 04:12:12.760       lsvc   main  29542 2146638   16                  fiber.scheduler - Spawning root fiber 19.
+  error 2024-12-17 04:12:12.947      front   main  29536 2146451         mac_app.helper_tool_interface - Global files not found.
+   info 2024-12-17 04:12:13.284       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') requested quit of fiber 19.
+   info 2024-12-17 04:12:13.284       lsvc   main  29542 2146638   19                      fiber.fiber - Received quit.
+   info 2024-12-17 04:12:13.284       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 19 terminated.
+  error 2024-12-17 04:12:13.284       lsvc   main  29542 2146638   16           anynet.relay_connector - Connection failed (result_closed)
+   info 2024-12-17 04:12:13.287       lsvc   main  29542 2146638   16           anynet.relay_connector - Using IPv4: 57.129.37.75
+   info 2024-12-17 04:12:13.290       lsvc   main  29542 2146638   16                  fiber.scheduler - Spawning root fiber 20.
+   info 2024-12-17 04:12:14.457       lsvc   main  29542 2146638   16           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2024-12-17 04:12:14.457       lsvc   main  29542 2146638   16                  fiber.scheduler - Spawning root fiber 21.
+   info 2024-12-17 04:12:14.461       lsvc   main  29542 2146638   16                        handshake - Using protocol version 3.
+   info 2024-12-17 04:12:14.802       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') requested quit of fiber 21.
+   info 2024-12-17 04:12:14.802       lsvc   main  29542 2146638   21                      fiber.fiber - Received quit.
+   info 2024-12-17 04:12:14.802       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 21 terminated.
+   info 2024-12-17 04:12:14.802       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') requested quit of fiber 20.
+   info 2024-12-17 04:12:14.802       lsvc   main  29542 2146638   20                      fiber.fiber - Received quit.
+   info 2024-12-17 04:12:14.802       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 20 terminated.
+   info 2024-12-17 04:12:14.803       lsvc   main  29542 2146638   16           anynet.relay_connector - Connection terminated: anynet_invalid_zone
+   info 2024-12-17 04:12:14.803       lsvc   main  29542 2146638   16           anynet.relay_connector - Received a new server list (5 servers)
+   info 2024-12-17 04:12:14.803       lsvc   main  29542 2146638   16           anynet.relay_connector - Connecting to relay relay-5166bfb1.net.anydesk.com (1/5)
+   info 2024-12-17 04:12:14.803       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-12-17 04:12:14.803       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-12-17 04:12:14.803       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-12-17 04:12:14.830       lsvc   main  29542 2146638   16           anynet.relay_connector - Using IPv4: 208.115.231.54
+   info 2024-12-17 04:12:14.835       lsvc   main  29542 2146638   16                  fiber.scheduler - Spawning root fiber 22.
+   info 2024-12-17 04:12:15.087       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') requested quit of fiber 22.
+   info 2024-12-17 04:12:15.087       lsvc   main  29542 2146638   22                      fiber.fiber - Received quit.
+   info 2024-12-17 04:12:15.087       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 22 terminated.
+  error 2024-12-17 04:12:15.087       lsvc   main  29542 2146638   16           anynet.relay_connector - Connection failed (errno_54)
+   info 2024-12-17 04:12:15.093       lsvc   main  29542 2146638   16           anynet.relay_connector - Using IPv4: 208.115.231.54
+   info 2024-12-17 04:12:15.097       lsvc   main  29542 2146638   16                  fiber.scheduler - Spawning root fiber 23.
+   info 2024-12-17 04:12:15.298       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') requested quit of fiber 23.
+   info 2024-12-17 04:12:15.298       lsvc   main  29542 2146638   23                      fiber.fiber - Received quit.
+   info 2024-12-17 04:12:15.299       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 23 terminated.
+  error 2024-12-17 04:12:15.299       lsvc   main  29542 2146638   16           anynet.relay_connector - Connection failed (errno_54)
+   info 2024-12-17 04:12:15.303       lsvc   main  29542 2146638   16           anynet.relay_connector - Using IPv4: 208.115.231.54
+  error 2024-12-17 04:12:15.599       lsvc   main  29542 2146638   16           anynet.relay_connector - Connection failed (errno_0)
+   info 2024-12-17 04:12:15.599       lsvc   main  29542 2146638   16           anynet.relay_connector - Connecting to relay relay-c93034a9.net.anydesk.com (2/5)
+   info 2024-12-17 04:12:15.599       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-12-17 04:12:15.599       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-12-17 04:12:15.599       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-12-17 04:12:15.625       lsvc   main  29542 2146638   16           anynet.relay_connector - Using IPv4: 51.89.42.215
+   info 2024-12-17 04:12:15.629       lsvc   main  29542 2146638   16                  fiber.scheduler - Spawning root fiber 24.
+   info 2024-12-17 04:12:15.875       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') requested quit of fiber 24.
+   info 2024-12-17 04:12:15.875       lsvc   main  29542 2146638   24                      fiber.fiber - Received quit.
+   info 2024-12-17 04:12:15.875       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 24 terminated.
+  error 2024-12-17 04:12:15.875       lsvc   main  29542 2146638   16           anynet.relay_connector - Connection failed (errno_54)
+   info 2024-12-17 04:12:15.879       lsvc   main  29542 2146638   16           anynet.relay_connector - Using IPv4: 51.89.42.215
+   info 2024-12-17 04:12:15.883       lsvc   main  29542 2146638   16                  fiber.scheduler - Spawning root fiber 25.
+   info 2024-12-17 04:12:16.138       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') requested quit of fiber 25.
+   info 2024-12-17 04:12:16.139       lsvc   main  29542 2146638   25                      fiber.fiber - Received quit.
+   info 2024-12-17 04:12:16.139       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 25 terminated.
+  error 2024-12-17 04:12:16.139       lsvc   main  29542 2146638   16           anynet.relay_connector - Connection failed (errno_54)
+   info 2024-12-17 04:12:16.142       lsvc   main  29542 2146638   16           anynet.relay_connector - Using IPv4: 51.89.42.215
+  error 2024-12-17 04:12:16.386       lsvc   main  29542 2146638   16           anynet.relay_connector - Connection failed (errno_0)
+   info 2024-12-17 04:12:16.386       lsvc   main  29542 2146638   16           anynet.relay_connector - Connecting to relay relay-91bcf965.net.anydesk.com (3/5)
+   info 2024-12-17 04:12:16.386       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-12-17 04:12:16.386       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-12-17 04:12:16.386       lsvc   main  29542 2146638   16           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-12-17 04:12:16.409       lsvc   main  29542 2146638   16           anynet.relay_connector - Using IPv4: 148.113.9.193
+   info 2024-12-17 04:12:16.413       lsvc   main  29542 2146638   16                  fiber.scheduler - Spawning root fiber 26.
+   info 2024-12-17 04:12:16.520       lsvc   main  29542 2146638   16           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2024-12-17 04:12:16.521       lsvc   main  29542 2146638   16                  fiber.scheduler - Spawning root fiber 27.
+   info 2024-12-17 04:12:16.523       lsvc   main  29542 2146638   16                        handshake - Using protocol version 3.
+   info 2024-12-17 04:12:16.930       lsvc   main  29542 2146638   16           anynet.relay_connector - Connection established.
+   info 2024-12-17 04:12:16.930       lsvc   main  29542 2146638   16           anynet.relay_connector - Relay connector stopped.
+   info 2024-12-17 04:12:16.930       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') terminated.
+   info 2024-12-17 04:12:16.935       lsvc   main  29542 2146638    8           anynet.main_relay_conn - Network ID: main
+   info 2024-12-17 04:12:16.938       lsvc   main  29542 2146638    8                anynet.relay_conn - External address: 103.167.126.170:58513.
+   info 2024-12-17 04:12:16.940       lsvc   main  29542 2146638    8           anynet.main_relay_conn - Reporting system information.
+   info 2024-12-17 04:12:16.940       lsvc   main  29542 2146638    8           anynet.main_relay_conn - Main relay ID: 91bcf965
+   info 2024-12-17 04:12:17.022       lsvc   main  29542 2146638    8           anynet.main_relay_conn - Detected 2 new networks.
+   info 2024-12-17 04:12:17.022       lsvc   main  29542 2146638   15                   anynet_service - Relay connection state changed: Connected.
+   info 2024-12-17 04:12:17.024       lsvc   main  29542 2146638    7            anynet.connection_mgr - Main relay connection established.
+   info 2024-12-17 04:12:17.024       lsvc   main  29542 2146638    7            anynet.connection_mgr - New user data. Client-ID: 1494421869.
+   info 2024-12-17 04:12:17.026       lsvc   main  29542 2146638    6                        device_id - Forcing device id update.
+   info 2024-12-17 04:12:17.026       lsvc   main  29542 2146638    6                        device_id - Requesting device id update.
+   info 2024-12-17 04:12:17.032      front   wrk1  29536 2146648                   anymessage.provider - CID changed. Requesting messages update.
+   info 2024-12-17 04:12:17.341       lsvc   main  29542 2146638   18                      app.service - Account: 501; 
+   info 2024-12-17 04:12:17.341       lsvc   main  29542 2146638    1                    app.discovery - Starting.
+  error 2024-12-17 04:12:17.341      front   wrk1  29536 2146648                               account - Unexpected response for request_account_info.
+   info 2024-12-17 04:12:17.341       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning root fiber 28 'discovery'.
+   info 2024-12-17 04:12:17.342       lsvc   main  29542 2146638    1                             ancl - Skipping ANCL update. No public key configured.
+   info 2024-12-17 04:12:17.342       lsvc   main  29542 2146638    1                      app.service - Account backend service status changed (0->1)
+   info 2024-12-17 04:12:17.347       lsvc   main  29542 2146638   28                    app.discovery - Current Discovery revision: 0
+   info 2024-12-17 04:12:17.349       lsvc   main  29542 2146638   28                    app.discovery - Joined multicast group 239.255.102.18:50001.
+   info 2024-12-17 04:12:17.349       lsvc   main  29542 2146638   28                    app.discovery - Bound to port: 50001
+   info 2024-12-17 04:12:17.349       lsvc   main  29542 2146638   28                anynet.udp_socket - Multicast loop option set to 0
+   info 2024-12-17 04:12:17.352       lsvc   main  29542 2146638   28                    app.discovery - Discovery fiber started.
+  error 2024-12-17 04:12:17.364      front   ctrl  29536 2146646         mac_app.helper_tool_interface - Global files not found.
+   info 2024-12-17 04:12:17.648       lsvc   main  29542 2146638    1                      app.service - License backend service status changed (0->1)
+warning 2024-12-17 04:12:17.649      front   wrk1  29536 2146648                      mac_app.frontend - Dropping out of date license response.
+   info 2024-12-17 04:12:17.649      front   wrk1  29536 2146648                   anymessage.provider - License changed. Requesting messages update.
+  error 2024-12-17 04:12:17.660      front   main  29536 2146451         mac_app.helper_tool_interface - Global files not found.
+   info 2024-12-17 04:15:18.857      front   main  29536 2146451                           AppDelegate - Termination request received
+   info 2024-12-17 04:15:18.859      front   main  29536 2146451                           AppDelegate - Normal termination (0).
+   info 2024-12-17 04:15:18.860      front   ctrl  29536 2146646                      mac_app.frontend - Frontend shutdown.
+   info 2024-12-17 04:15:18.861       lsvc   main  29542 2146638    1                      app.service - Process stop: 29536.
+   info 2024-12-17 04:15:18.861       lsvc   main  29542 2146638    1           anynet.relay_connector - Short timeouts disabled.
+ * * * * * * * * * * * * * * * * * *
+   info 2024-12-17 04:15:18.967      front   main  29586 2148449                                  main - * AnyDesk MAC Startup *
+   info 2024-12-17 04:15:18.967      front   main  29586 2148449                                  main - * Version 8.1.4 (release/mac_8.1.x 44493824f0795e3c07fdf2e9f223ddf3f8369d3c)
+   info 2024-12-17 04:15:18.967      front   main  29586 2148449                                  main - * Build 20241030151950
+   info 2024-12-17 04:15:18.967      front   main  29586 2148449                                  main - * Prefix ad
+   info 2024-12-17 04:15:18.969      front   main  29586 2148449                                  main - * OS Version 14.5 (Build 23F79)
+   info 2024-12-17 04:15:18.969      front   main  29586 2148449                                  main - * Arch arm64
+   info 2024-12-17 04:15:18.969      front   main  29586 2148449                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-12-17 04:15:18.969      front   main  29586 2148449                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-12-17 04:15:18.969      front   main  29586 2148449                                  main - 
+   info 2024-12-17 04:15:18.969      front   main  29586 2148449                                  main - pid: 29586 ppid: 1 uid: 501
+   info 2024-12-17 04:15:18.969      front   main  29586 2148449                                  main - process maxfiles 256 : -1
+   info 2024-12-17 04:15:18.969      front   main  29586 2148449                                  main - raising RLIMIT_NOFILE to 10240
+   info 2024-12-17 04:15:18.969      front   main  29586 2148449                         impl_selector - using neon
+   info 2024-12-17 04:15:19.012      front   main  29586 2148449                           AppDelegate - Connected to already running gsvc:29542
+  error 2024-12-17 04:15:19.023      front   main  29586 2148449         mac_app.helper_tool_interface - Global files not found.
+   info 2024-12-17 04:15:19.024      front   main  29586 2148449                       app.common_path - initialized user = /Users/karthikkulkarni/.anydesk, system = /Users/karthikkulkarni/.anydesk
+   info 2024-12-17 04:15:19.024      front   main  29586 2148449                           AppDelegate - Starting frontend (6).
+   info 2024-12-17 04:15:19.024      front   main  29586 2148449          base.data.config_application - Adding GPO defaults layer.
+   info 2024-12-17 04:15:19.025      front   main  29586 2148449                               app.mdm - Loaded 0/667 MDM defaults.
+   info 2024-12-17 04:15:19.025      front   main  29586 2148449          base.data.config_application - Adding GPO overrides layer.
+   info 2024-12-17 04:15:19.025      front   main  29586 2148449                               app.mdm - Loaded 0/667 MDM overrides.
+   info 2024-12-17 04:15:19.025      front   main  29586 2148449                           gui.gui_app - DPI scaling: 2.00 / 2.00
+   info 2024-12-17 04:15:19.025      front   main  29586 2148449                           gui.gui_app - Using high-resolution bitmaps.
+   info 2024-12-17 04:15:19.025      front   main  29586 2148449                       base.signal.hub - 4 threads.
+   info 2024-12-17 04:15:19.043      front   timr  29586 2148484          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-12-17 04:15:19.043      front   ctrl  29586 2148486                      mac_app.frontend - Frontend startup.
+   info 2024-12-17 04:15:19.043      front   ctrl  29586 2148486                      mac_app.frontend - Logging the frontend in.
+   info 2024-12-17 04:15:19.043       lsvc   main  29542 2146638    1                      app.service - Process start: 29586 (frontend).
+   info 2024-12-17 04:15:19.043       lsvc   main  29542 2146638    1           anynet.relay_connector - Short timeouts enabled.
+   info 2024-12-17 04:15:19.048       lsvc   main  29542 2146638    1                      app.service - New IPC connection.
+   info 2024-12-17 04:15:19.048       lsvc   main  29542 2146638    1                  fiber.scheduler - Spawning child fiber 29 'ipc_connection' (parent: 1).
+   info 2024-12-17 04:15:19.048       lsvc   main  29542 2146638   29                      app.service - Creating an IPC accept socket.
+   info 2024-12-17 04:15:19.048       lsvc   main  29542 2146638   29                      app.service - Connected to 29586 (frontend).
+   info 2024-12-17 04:15:19.048       lsvc   main  29542 2146638   29                      app.service - Process login detected.
+   info 2024-12-17 04:15:19.048       lsvc   main  29542 2146638   29                  fiber.scheduler - Spawning child fiber 30 'account_adapter' (parent: 29 'ipc_connection').
+warning 2024-12-17 04:15:19.048      front   wrk1  29586 2148488                      mac_app.frontend - Dropping out of date license response.
+   info 2024-12-17 04:15:19.048      front   wrk1  29586 2148488                   anymessage.provider - License changed. Requesting messages update.
+   info 2024-12-17 04:15:19.048      front   wrk2  29586 2148489                               app.mdm - Loaded 0/667 MDM overrides.
+   info 2024-12-17 04:15:19.049      front   wrk2  29586 2148489                               app.mdm - Loaded 0/667 MDM defaults.
+   info 2024-12-17 04:15:19.049       lsvc   main  29542 2146638   30                  account_adapter - Preparing quiver based account service for os-session 501
+   info 2024-12-17 04:15:19.051      front   ctrl  29586 2148486                     base.monitor_info - 1 active monitor(s) found.
+   info 2024-12-17 04:15:19.051       lsvc   main  29542 2146638   29           anynet.main_relay_conn - Reporting system information.
+   info 2024-12-17 04:15:19.129       lsvc   main  29542 2146638   17                      app.service - IPC socket closed.
+   info 2024-12-17 04:15:19.129       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 17 'ipc_connection' (parent: 1) requested quit of fiber 18 'account_adapter' (parent: 17 'ipc_connection').
+   info 2024-12-17 04:15:19.130       lsvc   main  29542 2146638   18                      fiber.fiber - Received quit.
+   info 2024-12-17 04:15:19.130       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 18 'account_adapter' (parent: 17 'ipc_connection') terminated.
+   info 2024-12-17 04:15:19.130       lsvc   main  29542 2146638   17                      app.service - Fiber exit (ipc).
+   info 2024-12-17 04:15:19.130       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 17 'ipc_connection' (parent: 1) terminated.
+  error 2024-12-17 04:15:19.318      front   main  29586 2148449         mac_app.helper_tool_interface - Global files not found.
+  error 2024-12-17 04:15:19.383      front   main  29586 2148449         mac_app.helper_tool_interface - Global files not found.
+   info 2024-12-17 04:15:19.465       lsvc   main  29542 2146638   30                      app.service - Account: 501; 
+  error 2024-12-17 04:15:19.465      front   wrk1  29586 2148488                               account - Unexpected response for request_account_info.
+   info 2024-12-17 04:15:45.937      front   main  29586 2148449                           AppDelegate - Log off or shutdown notification received
+   info 2024-12-17 04:15:45.961      front   main  29586 2148449                           AppDelegate - Termination request received
+   info 2024-12-17 04:15:45.961      front   main  29586 2148449                           AppDelegate - Reason: Logout
+   info 2024-12-17 04:15:45.966      front   ctrl  29586 2148486                      mac_app.frontend - Frontend shutdown.
+   info 2024-12-17 04:15:45.969      front   ctrl  29586 2148486                      mac_app.frontend - Terminating the service
+   info 2024-12-17 04:15:45.969       lsvc   main  29542 2146638    1                      app.service - Process stop: 29586.
+   info 2024-12-17 04:15:45.970       lsvc   main  29542 2146638    1           anynet.relay_connector - Short timeouts disabled.
+   info 2024-12-17 04:15:45.970       lsvc   main  29542 2146638   29                      app.service - Terminating the service.
+   info 2024-12-17 04:15:45.970       lsvc   main  29542 2146638   29                  fiber.scheduler - Quitting scheduler (0).
+   info 2024-12-17 04:15:45.970       lsvc   main  29542 2146638                       fiber.scheduler - Quitting all fibers.
+   info 2024-12-17 04:15:45.970       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 1 requested quit of fiber 4 (parent: 1).
+   info 2024-12-17 04:15:45.972       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 4 (parent: 1) terminated.
+   info 2024-12-17 04:15:45.972       lsvc   main  29542 2146638    7            anynet.connection_mgr - Connection manager fiber quit.
+   info 2024-12-17 04:15:45.972       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 7 'connection_mgr' terminated.
+   info 2024-12-17 04:15:45.972       lsvc   main  29542 2146638    8           anynet.main_relay_conn - Main relay connection closed.
+   info 2024-12-17 04:15:45.973       lsvc   main  29542 2146638    8            anynet.connection_mgr - Forcing cleanup.
+   info 2024-12-17 04:15:45.973       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 8 'main_relay_conn' requested quit of fiber 27.
+   info 2024-12-17 04:15:45.973       lsvc   main  29542 2146638    9              anynet.tcp_acceptor - Received quit.
+   info 2024-12-17 04:15:45.973       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 9 'tcp_acceptor' terminated.
+   info 2024-12-17 04:15:45.973       lsvc   main  29542 2146638   10              anynet.tcp_acceptor - Received quit.
+   info 2024-12-17 04:15:45.973       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 10 'tcp_acceptor' terminated.
+   info 2024-12-17 04:15:45.973       lsvc   main  29542 2146638   11                anynet.any_socket - Listen fiber stopped.
+   info 2024-12-17 04:15:45.973       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 11 terminated.
+   info 2024-12-17 04:15:45.974       lsvc   main  29542 2146638   26                      fiber.fiber - Received quit.
+   info 2024-12-17 04:15:45.974       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 26 terminated.
+   info 2024-12-17 04:15:45.974       lsvc   main  29542 2146638   27                      fiber.fiber - Received quit.
+   info 2024-12-17 04:15:45.974       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 27 terminated.
+   info 2024-12-17 04:15:45.974       lsvc   main  29542 2146638   28                    app.discovery - Left multicast group 239.255.102.18:50001.
+   info 2024-12-17 04:15:45.974       lsvc   main  29542 2146638   28                    app.discovery - Discovery fiber stopped.
+   info 2024-12-17 04:15:45.974       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 28 'discovery' terminated.
+   info 2024-12-17 04:15:45.974       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 1 requested quit of fiber 5 'license_adapter' (parent: 1).
+   info 2024-12-17 04:15:45.978       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 8 'main_relay_conn' terminated.
+   info 2024-12-17 04:15:45.979       lsvc   main  29542 2146638    5                      fib_service - Caught exception. quitting.
+   info 2024-12-17 04:15:45.979       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 5 'license_adapter' (parent: 1) terminated.
+   info 2024-12-17 04:15:45.979       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 1 requested quit of fiber 6 'device_id' (parent: 1).
+   info 2024-12-17 04:15:45.979       lsvc   main  29542 2146638    6                      fib_service - Caught exception. quitting.
+   info 2024-12-17 04:15:45.979       lsvc   main  29542 2146638    6                        device_id - device id service stopped.
+   info 2024-12-17 04:15:45.979       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 6 'device_id' (parent: 1) terminated.
+   info 2024-12-17 04:15:45.979       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 1 requested quit of fiber 3 'notifications' (parent: 1).
+   info 2024-12-17 04:15:45.979       lsvc   main  29542 2146638    3                      fib_service - Caught exception. quitting.
+   info 2024-12-17 04:15:45.979       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 3 'notifications' (parent: 1) terminated.
+   info 2024-12-17 04:15:45.979       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 1 requested quit of fiber 2 (parent: 1).
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 2 (parent: 1) terminated.
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 1 requested quit of fiber 14 'ancl' (parent: 1).
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638   14                      fib_service - Caught exception. quitting.
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 14 'ancl' (parent: 1) terminated.
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638    1                      app.service - Service shutdown.
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 1 requested quit of fiber 12 'wol_service' (parent: 1).
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638   12                      fiber.fiber - Received quit.
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 12 'wol_service' (parent: 1) terminated.
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 1 requested quit of fiber 13 'invitation_service' (parent: 1).
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638   13                      fib_service - Caught exception. quitting.
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 13 'invitation_service' (parent: 1) terminated.
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 1 requested quit of fiber 15 'quiver_anynet_service' (parent: 1).
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 15 'quiver_anynet_service' (parent: 1) terminated.
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 1 requested quit of fiber 29 'ipc_connection' (parent: 1).
+   info 2024-12-17 04:15:45.980       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 29 'ipc_connection' (parent: 1) requested quit of fiber 30 'account_adapter' (parent: 29 'ipc_connection').
+   info 2024-12-17 04:15:45.981       lsvc   main  29542 2146638   30                      fiber.fiber - Received quit.
+   info 2024-12-17 04:15:45.981       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 30 'account_adapter' (parent: 29 'ipc_connection') terminated.
+   info 2024-12-17 04:15:45.981      front   wrk0  29586 2148487                      mac_app.frontend - Service connection lost.
+   info 2024-12-17 04:15:47.188       lsvc   main  29542 2146638   29                      app.service - Fiber exit (ipc).
+   info 2024-12-17 04:15:47.188       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 29 'ipc_connection' (parent: 1) terminated.
+   info 2024-12-17 04:15:47.188       lsvc   main  29542 2146638    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2024-12-17 04:15:47.188       lsvc   main  29542 2146638    1                  fiber.scheduler - Quitting scheduler (0).
+   info 2024-12-17 04:15:47.188       lsvc   main  29542 2146638                       fiber.scheduler - Fiber 1 terminated.
+   info 2024-12-17 04:15:47.188       lsvc   main  29542 2146638                       fiber.scheduler - All fibers terminated.
+   info 2024-12-17 04:15:47.189       lsvc   main  29542 2146638                       fiber.scheduler - Scheduler stopped (0).
+   info 2024-12-17 04:15:47.190       lsvc   main  29542 2146638                      main.run_service - Exiting
+ * * * * * * * * * * * * * * * * * *
+   info 2024-12-17 04:15:49.278      front   main  29626 2149796                                  main - * AnyDesk MAC Startup *
+   info 2024-12-17 04:15:49.279      front   main  29626 2149796                                  main - * Version 8.1.4 (release/mac_8.1.x 44493824f0795e3c07fdf2e9f223ddf3f8369d3c)
+   info 2024-12-17 04:15:49.279      front   main  29626 2149796                                  main - * Build 20241030151950
+   info 2024-12-17 04:15:49.279      front   main  29626 2149796                                  main - * Prefix ad
+   info 2024-12-17 04:15:49.280      front   main  29626 2149796                                  main - * OS Version 14.5 (Build 23F79)
+   info 2024-12-17 04:15:49.280      front   main  29626 2149796                                  main - * Arch arm64
+   info 2024-12-17 04:15:49.280      front   main  29626 2149796                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-12-17 04:15:49.280      front   main  29626 2149796                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-12-17 04:15:49.280      front   main  29626 2149796                                  main - 
+   info 2024-12-17 04:15:49.280      front   main  29626 2149796                                  main - pid: 29626 ppid: 1 uid: 501
+   info 2024-12-17 04:15:49.280      front   main  29626 2149796                                  main - process maxfiles 256 : -1
+   info 2024-12-17 04:15:49.280      front   main  29626 2149796                                  main - raising RLIMIT_NOFILE to 10240
+   info 2024-12-17 04:15:49.280      front   main  29626 2149796                         impl_selector - using neon
+warning 2024-12-17 04:15:49.328      front   main  29626 2149796                   fiber.ipc_namespace - Local namespace without service.
+  error 2024-12-17 04:15:49.342      front   main  29626 2149796         mac_app.helper_tool_interface - Global files not found.
+   info 2024-12-17 04:15:49.342      front   main  29626 2149796                   fiber.ipc_namespace - Global: no
+   info 2024-12-17 04:15:49.342      front   main  29626 2149796                           AppDelegate - Starting a local service.
+warning 2024-12-17 04:15:49.342      front   main  29626 2149796                   fiber.ipc_namespace - Local namespace without service.
+ * * * * * * * * * * * * * * * * * *
+   info 2024-12-17 04:15:49.352       lsvc   main  29627 2149822                                  main - * AnyDesk MAC Startup *
+   info 2024-12-17 04:15:49.352       lsvc   main  29627 2149822                                  main - * Version 8.1.4 (release/mac_8.1.x 44493824f0795e3c07fdf2e9f223ddf3f8369d3c)
+   info 2024-12-17 04:15:49.352       lsvc   main  29627 2149822                                  main - * Build 20241030151950
+   info 2024-12-17 04:15:49.352       lsvc   main  29627 2149822                                  main - * Prefix ad
+   info 2024-12-17 04:15:49.353       lsvc   main  29627 2149822                                  main - * OS Version 14.5 (Build 23F79)
+   info 2024-12-17 04:15:49.353       lsvc   main  29627 2149822                                  main - * Arch arm64
+   info 2024-12-17 04:15:49.353       lsvc   main  29627 2149822                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-12-17 04:15:49.353       lsvc   main  29627 2149822                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-12-17 04:15:49.353       lsvc   main  29627 2149822                                  main - 
+   info 2024-12-17 04:15:49.353       lsvc   main  29627 2149822                                  main - pid: 29627 ppid: 29626 uid: 501
+   info 2024-12-17 04:15:49.353       lsvc   main  29627 2149822                                  main - process maxfiles 10240 : -1
+   info 2024-12-17 04:15:49.353       lsvc   main  29627 2149822                         impl_selector - using neon
+   info 2024-12-17 04:15:49.354       lsvc   main  29627 2149822                       app.common_path - initialized user = /Users/karthikkulkarni/.anydesk, system = /Users/karthikkulkarni/.anydesk
+   info 2024-12-17 04:15:49.354       lsvc   main  29627 2149822                      main.run_service - Starting local service.
+   info 2024-12-17 04:15:49.354       lsvc   main  29627 2149822          base.data.config_application - Adding GPO defaults layer.
+   info 2024-12-17 04:15:49.354       lsvc   main  29627 2149822                               app.mdm - Loaded 0/667 MDM defaults.
+   info 2024-12-17 04:15:49.355       lsvc   main  29627 2149822          base.data.config_application - Adding GPO overrides layer.
+   info 2024-12-17 04:15:49.355       lsvc   main  29627 2149822                               app.mdm - Loaded 0/667 MDM overrides.
+   info 2024-12-17 04:15:49.356       lsvc   main  29627 2149822                       fiber.scheduler - Spawning root fiber 1.
+   info 2024-12-17 04:15:49.356       lsvc   main  29627 2149822                       fiber.scheduler - Scheduler started.
+   info 2024-12-17 04:15:49.356       lsvc   main  29627 2149822    1                      app.service - Opening the IPC namespace.
+   info 2024-12-17 04:15:49.357       lsvc   main  29627 2149822    1              fiber.ipc_namespace - Global: no
+   info 2024-12-17 04:15:49.357       lsvc   main  29627 2149822    1                      app.service - Logging into the IPC namespace.
+   info 2024-12-17 04:15:49.357       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning child fiber 2 (parent: 1).
+   info 2024-12-17 04:15:49.357       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning child fiber 3 'notifications' (parent: 1).
+   info 2024-12-17 04:15:49.357       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning child fiber 4 (parent: 1).
+   info 2024-12-17 04:15:49.357       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning child fiber 5 'license_adapter' (parent: 1).
+   info 2024-12-17 04:15:49.357       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning child fiber 6 'device_id' (parent: 1).
+   info 2024-12-17 04:15:49.357       lsvc   main  29627 2149822    1                      app.service - Starting to supervise the IPC namespace.
+   info 2024-12-17 04:15:49.357       lsvc   main  29627 2149822    1                      app.service - Starting the connector.
+   info 2024-12-17 04:15:49.357       lsvc   main  29627 2149822    1            anynet.connection_mgr - Importing certificate and key.
+   info 2024-12-17 04:15:49.358       lsvc   main  29627 2149822    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2024-12-17 04:15:49.358       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning root fiber 7 'connection_mgr'.
+   info 2024-12-17 04:15:49.358       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning root fiber 8 'main_relay_conn'.
+   info 2024-12-17 04:15:49.358       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning root fiber 9 'tcp_acceptor'.
+   info 2024-12-17 04:15:49.358       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning root fiber 10 'tcp_acceptor'.
+   info 2024-12-17 04:15:49.358       lsvc   main  29627 2149822    1                      app.service - Setting up the listen sockets.
+   info 2024-12-17 04:15:49.359       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning root fiber 11.
+   info 2024-12-17 04:15:49.359       lsvc   main  29627 2149822    1                      app.service - Service startup completed.
+   info 2024-12-17 04:15:49.359       lsvc   main  29627 2149822    1      anynet.connectivity_monitor - connectivity_monitor osx create
+   info 2024-12-17 04:15:49.360       lsvc   main  29627 2149822    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2024-12-17 04:15:49.360       lsvc   main  29627 2149822    1            app.discovery_manager - Starting Discovery.
+   info 2024-12-17 04:15:49.360       lsvc   main  29627 2149822    1                   ad.wol_service - Starting WOL service.
+   info 2024-12-17 04:15:49.360       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning child fiber 12 'wol_service' (parent: 1).
+   info 2024-12-17 04:15:49.360       lsvc   main  29627 2149822    1               statistics_service - cid changed - resetting consents for the system.
+   info 2024-12-17 04:15:49.361       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning child fiber 13 'invitation_service' (parent: 1).
+   info 2024-12-17 04:15:49.361       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning child fiber 14 'ancl' (parent: 1).
+   info 2024-12-17 04:15:49.361       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning child fiber 15 'quiver_anynet_service' (parent: 1).
+   info 2024-12-17 04:15:49.361       lsvc   main  29627 2149822    1                      app.service - Waiting for messages.
+   info 2024-12-17 04:15:49.361       lsvc   main  29627 2149822    6                        device_id - device id service started.
+   info 2024-12-17 04:15:49.361       lsvc   main  29627 2149822    7            anynet.connection_mgr - Starting connection manager fiber.
+   info 2024-12-17 04:15:49.361       lsvc   main  29627 2149822    8           anynet.main_relay_conn - Starting main relay connection.
+   info 2024-12-17 04:15:49.361       lsvc   main  29627 2149822    8      anynet.connectivity_monitor - connectivity_monitor osx create
+   info 2024-12-17 04:15:49.362       lsvc   main  29627 2149822    8                  fiber.scheduler - Spawning child fiber 16 'relay_connector' (parent: 8 'main_relay_conn').
+   info 2024-12-17 04:15:49.362       lsvc   main  29627 2149822    9              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv4.
+   info 2024-12-17 04:15:49.362       lsvc   main  29627 2149822   10              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv6.
+   info 2024-12-17 04:15:49.362       lsvc   main  29627 2149822   11                anynet.any_socket - Listen fiber started.
+   info 2024-12-17 04:15:49.362       lsvc   main  29627 2149822   12                      anynet.conn - Request before connect. Queueing.
+   info 2024-12-17 04:15:49.363       lsvc   main  29627 2149822   16           anynet.relay_connector - Relay connector started.
+   info 2024-12-17 04:15:49.363       lsvc   main  29627 2149822   16           anynet.relay_connector - Start proxy search.
+   info 2024-12-17 04:15:49.363       lsvc   main  29627 2149822   16           anynet.relay_connector - Connecting to relay relay-91bcf965.net.anydesk.com (1/2)
+   info 2024-12-17 04:15:49.363       lsvc   main  29627 2149822   16           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-12-17 04:15:49.363       lsvc   main  29627 2149822   16           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-12-17 04:15:49.363       lsvc   main  29627 2149822   16           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-12-17 04:15:49.366       lsvc   main  29627 2149822   16           anynet.relay_connector - Using IPv4: 148.113.9.193
+   info 2024-12-17 04:15:49.373       lsvc   main  29627 2149822   16                  fiber.scheduler - Spawning root fiber 17.
+   info 2024-12-17 04:15:49.444      front   main  29626 2149796                       app.common_path - initialized user = /Users/karthikkulkarni/.anydesk, system = /Users/karthikkulkarni/.anydesk
+   info 2024-12-17 04:15:49.444      front   main  29626 2149796                           AppDelegate - Starting frontend (6).
+   info 2024-12-17 04:15:49.445      front   main  29626 2149796          base.data.config_application - Adding GPO defaults layer.
+   info 2024-12-17 04:15:49.446      front   main  29626 2149796                               app.mdm - Loaded 0/667 MDM defaults.
+   info 2024-12-17 04:15:49.446      front   main  29626 2149796          base.data.config_application - Adding GPO overrides layer.
+   info 2024-12-17 04:15:49.446      front   main  29626 2149796                               app.mdm - Loaded 0/667 MDM overrides.
+   info 2024-12-17 04:15:49.446      front   main  29626 2149796                           gui.gui_app - DPI scaling: 2.00 / 2.00
+   info 2024-12-17 04:15:49.446      front   main  29626 2149796                           gui.gui_app - Using high-resolution bitmaps.
+   info 2024-12-17 04:15:49.446      front   main  29626 2149796                       base.signal.hub - 4 threads.
+   info 2024-12-17 04:15:49.461      front   timr  29626 2149841          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-12-17 04:15:49.462      front   ctrl  29626 2149843                      mac_app.frontend - Frontend startup.
+   info 2024-12-17 04:15:49.462      front   ctrl  29626 2149843                      mac_app.frontend - Logging the frontend in.
+   info 2024-12-17 04:15:49.462       lsvc   main  29627 2149822    1                      app.service - Process start: 29626 (frontend).
+   info 2024-12-17 04:15:49.462       lsvc   main  29627 2149822    1           anynet.relay_connector - Short timeouts enabled.
+   info 2024-12-17 04:15:49.468       lsvc   main  29627 2149822    1                      app.service - New IPC connection.
+   info 2024-12-17 04:15:49.468       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning child fiber 18 'ipc_connection' (parent: 1).
+   info 2024-12-17 04:15:49.468       lsvc   main  29627 2149822   18                      app.service - Creating an IPC accept socket.
+   info 2024-12-17 04:15:49.468       lsvc   main  29627 2149822   18                      app.service - Connected to 29626 (frontend).
+   info 2024-12-17 04:15:49.468       lsvc   main  29627 2149822   18                      app.service - Process login detected.
+   info 2024-12-17 04:15:49.468       lsvc   main  29627 2149822   18                  fiber.scheduler - Spawning child fiber 19 'account_adapter' (parent: 18 'ipc_connection').
+warning 2024-12-17 04:15:49.468      front   wrk1  29626 2149845                                   sif - Dropping out of date license response.
+   info 2024-12-17 04:15:49.469       lsvc   main  29627 2149822   19                  account_adapter - Preparing quiver based account service for os-session 501
+   info 2024-12-17 04:15:49.469      front   wrk2  29626 2149846                               app.mdm - Loaded 0/667 MDM overrides.
+   info 2024-12-17 04:15:49.469      front   wrk2  29626 2149846                               app.mdm - Loaded 0/667 MDM defaults.
+   info 2024-12-17 04:15:49.474      front   ctrl  29626 2149843                     base.monitor_info - 1 active monitor(s) found.
+   info 2024-12-17 04:15:49.478       lsvc   main  29627 2149822   19                      anynet.conn - Request before connect. Queueing.
+   info 2024-12-17 04:15:49.487       lsvc   main  29627 2149822   16           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2024-12-17 04:15:49.487       lsvc   main  29627 2149822   16                  fiber.scheduler - Spawning root fiber 20.
+   info 2024-12-17 04:15:49.487       lsvc   main  29627 2149822   16                        handshake - Using protocol version 3.
+  error 2024-12-17 04:15:49.625      front   main  29626 2149796         mac_app.helper_tool_interface - Global files not found.
+   info 2024-12-17 04:15:49.778       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') requested quit of fiber 20.
+   info 2024-12-17 04:15:49.778       lsvc   main  29627 2149822   20                      fiber.fiber - Received quit.
+   info 2024-12-17 04:15:49.778       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 20 terminated.
+   info 2024-12-17 04:15:49.778       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') requested quit of fiber 17.
+   info 2024-12-17 04:15:49.778       lsvc   main  29627 2149822   17                      fiber.fiber - Received quit.
+   info 2024-12-17 04:15:49.778       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 17 terminated.
+   info 2024-12-17 04:15:49.779       lsvc   main  29627 2149822   16           anynet.relay_connector - Connection terminated: anynet_relay_full
+   info 2024-12-17 04:15:49.779       lsvc   main  29627 2149822   16           anynet.relay_connector - Received a new server list (5 servers)
+   info 2024-12-17 04:15:49.779       lsvc   main  29627 2149822   16           anynet.relay_connector - Connecting to relay relay-c93034a9.net.anydesk.com (1/5)
+   info 2024-12-17 04:15:49.779       lsvc   main  29627 2149822   16           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-12-17 04:15:49.779       lsvc   main  29627 2149822   16           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-12-17 04:15:49.779       lsvc   main  29627 2149822   16           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-12-17 04:15:49.781       lsvc   main  29627 2149822   16           anynet.relay_connector - Using IPv4: 51.89.42.215
+   info 2024-12-17 04:15:49.786       lsvc   main  29627 2149822   16                  fiber.scheduler - Spawning root fiber 21.
+   info 2024-12-17 04:15:50.035       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') requested quit of fiber 21.
+   info 2024-12-17 04:15:50.035       lsvc   main  29627 2149822   21                      fiber.fiber - Received quit.
+   info 2024-12-17 04:15:50.035       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 21 terminated.
+  error 2024-12-17 04:15:50.035       lsvc   main  29627 2149822   16           anynet.relay_connector - Connection failed (errno_54)
+   info 2024-12-17 04:15:50.037       lsvc   main  29627 2149822   16           anynet.relay_connector - Using IPv4: 51.89.42.215
+   info 2024-12-17 04:15:50.042       lsvc   main  29627 2149822   16                  fiber.scheduler - Spawning root fiber 22.
+   info 2024-12-17 04:15:50.397       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') requested quit of fiber 22.
+   info 2024-12-17 04:15:50.397       lsvc   main  29627 2149822   22                      fiber.fiber - Received quit.
+   info 2024-12-17 04:15:50.397       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 22 terminated.
+  error 2024-12-17 04:15:50.397       lsvc   main  29627 2149822   16           anynet.relay_connector - Connection failed (errno_54)
+   info 2024-12-17 04:15:50.402       lsvc   main  29627 2149822   16           anynet.relay_connector - Using IPv4: 51.89.42.215
+  error 2024-12-17 04:15:50.700       lsvc   main  29627 2149822   16           anynet.relay_connector - Connection failed (errno_0)
+   info 2024-12-17 04:15:50.700       lsvc   main  29627 2149822   16           anynet.relay_connector - Connecting to relay relay-be95ff4f.net.anydesk.com (2/5)
+   info 2024-12-17 04:15:50.700       lsvc   main  29627 2149822   16           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-12-17 04:15:50.700       lsvc   main  29627 2149822   16           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-12-17 04:15:50.700       lsvc   main  29627 2149822   16           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-12-17 04:15:50.729       lsvc   main  29627 2149822   16           anynet.relay_connector - Using IPv4: 203.23.178.51
+   info 2024-12-17 04:15:50.733       lsvc   main  29627 2149822   16                  fiber.scheduler - Spawning root fiber 23.
+   info 2024-12-17 04:15:51.436       lsvc   main  29627 2149822   16           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2024-12-17 04:15:51.436       lsvc   main  29627 2149822   16                  fiber.scheduler - Spawning root fiber 24.
+   info 2024-12-17 04:15:51.438       lsvc   main  29627 2149822   16                        handshake - Using protocol version 3.
+   info 2024-12-17 04:15:51.639       lsvc   main  29627 2149822   16           anynet.relay_connector - Connection established.
+   info 2024-12-17 04:15:51.639       lsvc   main  29627 2149822   16           anynet.relay_connector - Relay connector stopped.
+   info 2024-12-17 04:15:51.639       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 8 'main_relay_conn') terminated.
+   info 2024-12-17 04:15:51.644       lsvc   main  29627 2149822    8           anynet.main_relay_conn - Network ID: main
+   info 2024-12-17 04:15:51.647       lsvc   main  29627 2149822    8                anynet.relay_conn - External address: 103.167.126.170:59060.
+   info 2024-12-17 04:15:51.649       lsvc   main  29627 2149822    8           anynet.main_relay_conn - Reporting system information.
+   info 2024-12-17 04:15:51.649       lsvc   main  29627 2149822    8           anynet.main_relay_conn - Main relay ID: be95ff4f
+   info 2024-12-17 04:15:51.731       lsvc   main  29627 2149822    8           anynet.main_relay_conn - Detected 2 new networks.
+   info 2024-12-17 04:15:51.732       lsvc   main  29627 2149822   15                   anynet_service - Relay connection state changed: Connected.
+   info 2024-12-17 04:15:51.733       lsvc   main  29627 2149822    7            anynet.connection_mgr - Main relay connection established.
+   info 2024-12-17 04:15:51.733       lsvc   main  29627 2149822    7            anynet.connection_mgr - New user data. Client-ID: 1494421869.
+   info 2024-12-17 04:15:51.735       lsvc   main  29627 2149822    6                        device_id - Requesting device id validation.
+   info 2024-12-17 04:15:51.883       lsvc   main  29627 2149822   19                      app.service - Account: 501; 
+  error 2024-12-17 04:15:51.884      front   wrk1  29626 2149845                               account - Unexpected response for request_account_info.
+   info 2024-12-17 04:15:51.950       lsvc   main  29627 2149822    1                    app.discovery - Starting.
+   info 2024-12-17 04:15:51.951       lsvc   main  29627 2149822    1                  fiber.scheduler - Spawning root fiber 25 'discovery'.
+   info 2024-12-17 04:15:51.951       lsvc   main  29627 2149822    1                             ancl - Skipping ANCL update. No public key configured.
+   info 2024-12-17 04:15:51.951       lsvc   main  29627 2149822    1                      app.service - Account backend service status changed (0->1)
+   info 2024-12-17 04:15:51.951       lsvc   main  29627 2149822   25                    app.discovery - Current Discovery revision: 0
+   info 2024-12-17 04:15:51.953       lsvc   main  29627 2149822   25                    app.discovery - Joined multicast group 239.255.102.18:50001.
+   info 2024-12-17 04:15:51.953       lsvc   main  29627 2149822   25                    app.discovery - Bound to port: 50001
+   info 2024-12-17 04:15:51.953       lsvc   main  29627 2149822   25                anynet.udp_socket - Multicast loop option set to 0
+   info 2024-12-17 04:15:51.955       lsvc   main  29627 2149822   25                    app.discovery - Discovery fiber started.
+   info 2024-12-17 04:15:51.957       lsvc   main  29627 2149822    6                        device_id - Device ID valid.
+  error 2024-12-17 04:15:51.968      front   ctrl  29626 2149843         mac_app.helper_tool_interface - Global files not found.
+warning 2024-12-17 04:15:52.133       lsvc   main  29627 2149822    8                      anynet.conn - Response to request 4 ignored.
+   info 2024-12-17 04:15:57.717      front   main  29626 2149796         mac_app.helper_tool_interface - *** Installing helper tool... ***
+   info 2024-12-17 04:16:09.734      front   main  29626 2149796         mac_app.helper_tool_interface - Helper tool installation successeded
+   info 2024-12-17 04:16:10.252       lsvc   main  29627 2149822                       fiber.scheduler - Quitting scheduler (1).
+   info 2024-12-17 04:16:10.252       lsvc   main  29627 2149822                       fiber.scheduler - Quitting all fibers.
+   info 2024-12-17 04:16:10.252       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 1 requested quit of fiber 4 (parent: 1).
+   info 2024-12-17 04:16:10.252       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 4 (parent: 1) terminated.
+   info 2024-12-17 04:16:10.252       lsvc   main  29627 2149822    7            anynet.connection_mgr - Connection manager fiber quit.
+   info 2024-12-17 04:16:10.252       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 7 'connection_mgr' terminated.
+   info 2024-12-17 04:16:10.252       lsvc   main  29627 2149822    8           anynet.main_relay_conn - Main relay connection closed.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822    8            anynet.connection_mgr - Forcing cleanup.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 8 'main_relay_conn' requested quit of fiber 24.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822    9              anynet.tcp_acceptor - Received quit.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 9 'tcp_acceptor' terminated.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822   10              anynet.tcp_acceptor - Received quit.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 10 'tcp_acceptor' terminated.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822   11                anynet.any_socket - Listen fiber stopped.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 11 terminated.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822   23                      fiber.fiber - Received quit.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 23 terminated.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822   24                      fiber.fiber - Received quit.
+   info 2024-12-17 04:16:10.254       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 24 terminated.
+   info 2024-12-17 04:16:10.255       lsvc   main  29627 2149822   25                    app.discovery - Left multicast group 239.255.102.18:50001.
+   info 2024-12-17 04:16:10.255       lsvc   main  29627 2149822   25                    app.discovery - Discovery fiber stopped.
+   info 2024-12-17 04:16:10.255       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 25 'discovery' terminated.
+   info 2024-12-17 04:16:10.255       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 1 requested quit of fiber 5 'license_adapter' (parent: 1).
+   info 2024-12-17 04:16:10.255       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 8 'main_relay_conn' terminated.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822    5                      fib_service - Caught exception. quitting.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 5 'license_adapter' (parent: 1) terminated.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 1 requested quit of fiber 6 'device_id' (parent: 1).
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822    6                      fib_service - Caught exception. quitting.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822    6                        device_id - device id service stopped.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 6 'device_id' (parent: 1) terminated.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 1 requested quit of fiber 3 'notifications' (parent: 1).
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822    3                      fib_service - Caught exception. quitting.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 3 'notifications' (parent: 1) terminated.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 1 requested quit of fiber 2 (parent: 1).
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 2 (parent: 1) terminated.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 1 requested quit of fiber 14 'ancl' (parent: 1).
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822   14                      fib_service - Caught exception. quitting.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 14 'ancl' (parent: 1) terminated.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822    1                      app.service - Service shutdown.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 1 requested quit of fiber 12 'wol_service' (parent: 1).
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822   12                      fiber.fiber - Received quit.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 12 'wol_service' (parent: 1) terminated.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 1 requested quit of fiber 13 'invitation_service' (parent: 1).
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822   13                      fib_service - Caught exception. quitting.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 13 'invitation_service' (parent: 1) terminated.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 1 requested quit of fiber 15 'quiver_anynet_service' (parent: 1).
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 15 'quiver_anynet_service' (parent: 1) terminated.
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 1 requested quit of fiber 18 'ipc_connection' (parent: 1).
+   info 2024-12-17 04:16:10.256       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 18 'ipc_connection' (parent: 1) requested quit of fiber 19 'account_adapter' (parent: 18 'ipc_connection').
+   info 2024-12-17 04:16:10.257       lsvc   main  29627 2149822   19                      fiber.fiber - Received quit.
+   info 2024-12-17 04:16:10.257       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 19 'account_adapter' (parent: 18 'ipc_connection') terminated.
+   info 2024-12-17 04:16:10.257       lsvc   main  29627 2149822   18                      app.service - Fiber exit (ipc).
+   info 2024-12-17 04:16:10.257       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 18 'ipc_connection' (parent: 1) terminated.
+   info 2024-12-17 04:16:10.257       lsvc   main  29627 2149822    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2024-12-17 04:16:11.510       lsvc   main  29627 2149822                       fiber.scheduler - Fiber 1 terminated.
+   info 2024-12-17 04:16:11.510       lsvc   main  29627 2149822                       fiber.scheduler - All fibers terminated.
+   info 2024-12-17 04:16:11.510       lsvc   main  29627 2149822                       fiber.scheduler - Scheduler stopped (1).
+   info 2024-12-17 04:16:11.511       lsvc   main  29627 2149822                      main.run_service - Exiting
